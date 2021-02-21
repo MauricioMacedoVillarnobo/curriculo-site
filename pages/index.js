@@ -10,9 +10,9 @@ function Home()
         </Link>
 
         <hr></hr>
-        <video width="320" height="240" controls></video>
-            <source src="movie.mp4" type="video/mp4"></source>
-            <source src="movie.ogg" type="video/ogg"></source>
+        <iframe width="420" height="315"
+        src="https://www.youtube.com/embed/tgbNymZ7vqY">
+        </iframe>
         
     </div>) 
 }
