@@ -1,10 +1,10 @@
 import Link from 'next/link';
 //import link from 'next/link';
 
-function Sobre() 
+function SaibaMais() 
 {
     return (<div>
-        <h1>Sobre</h1>
+        <h1>SaibaMais</h1>
 
         <Link  href="/">
             <a>Acessar página Home</a>
@@ -12,4 +12,4 @@ function Sobre()
     </div>) 
 }
 
-export default Sobre
+export default SaibaMais
