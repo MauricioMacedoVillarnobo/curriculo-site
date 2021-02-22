@@ -14,7 +14,7 @@ function Home()
         src="https://www.youtube.com/embed/tgbNymZ7vqY">
         </iframe>
         
-    </div>) 
+    </div>)
 }
 
 export default Home
