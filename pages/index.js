@@ -34,7 +34,7 @@ function Home()
 
             <div>
                 <Link href="/saibaMais">
-                <a><h1>Saiba Mais +</h1></a>
+                <a><h1 class="mb-4">Saiba Mais +</h1></a>
                 </Link>
             </div>
         </div>
