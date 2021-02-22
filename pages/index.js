@@ -17,26 +17,28 @@ function Home()
         </div>
 
         <div>
-            <h1>Formação</h1>
-            <p>PUC-SP</p>
-            <p>SI</p>
-            <p>Saga</p>
-            <p>SuperGeeks</p>
+            <div>
+                <h1>Formação</h1>
+                <p>PUC-SP</p>
+                <p>SI</p>
+                <p>Saga</p>
+                <p>SuperGeeks</p>
+            </div>
+
+            <div>
+                <h1>Competência</h1>
+                <p>Inglês Avançado</p>
+                <p>Linguagem de Programação C/C++ básico</p>
+                <p>Microsoft Visual Studio</p>
+            </div>
+
+            <div>
+                <Link href="/saibaMais">
+                <a><h1>Saiba Mais +</h1></a>
+                </Link>
+            </div>
         </div>
 
-        <div>
-            <h1>Competência</h1>
-            <p>Inglês Avançado</p>
-            <p>Linguagem de Programação C/C++ básico</p>
-            <p>Microsoft Visual Studio</p>
-        </div>
-
-        <div>
-            <Link href="/saibaMais">
-            <a><h1>Saiba Mais +</h1></a>
-            </Link>
-        </div>
-        
     </div>)
 }
 

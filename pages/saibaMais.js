@@ -4,10 +4,10 @@ import Link from 'next/link';
 function SaibaMais() 
 {
     return (<div>
-        <h1>SaibaMais</h1>
+        <h1>Saiba Mais</h1>
 
         <Link  href="/">
-            <a>Acessar página Home</a>
+            <a>Retornar a página inicial</a>
         </Link>
     </div>) 
 }
