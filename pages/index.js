@@ -6,7 +6,7 @@ function Home()
 
         <div>
             <iframe width="420" height="315"
-            src="https://https://www.youtube.com/embed/tgbNymZ7vqY" frameborder="0" allowfullscreen>
+            src="https://www.youtube.com/embed/tgbNymZ7vqY" frameborder="0" allowfullscreen>
             </iframe>
         </div>
 
