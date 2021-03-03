@@ -6,7 +6,7 @@ function Home()
 
         <div>
             <iframe width="420" height="315"
-            src="https://www.youtube.com/embed/tgbNymZ7vqY">
+            src="https://www.youtube.com/watch?v=L_jWHffIx5E">
             </iframe>
         </div>
 
@@ -34,7 +34,7 @@ function Home()
 
             <div>
                 <Link href="/saibaMais">
-                <a><h1 class="mb-4">Saiba Mais +</h1></a>
+                <a><h1>Saiba Mais +</h1></a>
                 </Link>
             </div>
         </div>
